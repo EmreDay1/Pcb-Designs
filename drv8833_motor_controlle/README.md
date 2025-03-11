@@ -1,4 +1,4 @@
-### Motor Driver Circuit with DRV8833**
+### Motor Driver Circuit with DRV8833** My double sided PCB trial
 
 This week, I focused on designing a **motor driver circuit** using the **DRV8833** in **KiCad**. The process involved understanding the component’s specifications, setting up the schematic, and ensuring proper power management and signal routing. The **DRV8833** is a compact **dual H-bridge motor driver**, perfect for controlling two DC motors or one stepper motor with bidirectional control. The challenge was to integrate it into a circuit that is **efficient, reliable, and easy to debug**.
 
