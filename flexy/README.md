@@ -1,1 +1,1 @@
-Elegant electronic 3 Axis Pose Estimator utilizing ESP32 and capacitive touch.)
+Elegant electronic 3 Axis Pose Estimator utilizing Attiny412 and capacitive touch.)
