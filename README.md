@@ -1,4 +1,5 @@
-# Pcb-Designs  
-The Pcb-Designs by Emre Dayangaç  
+# Pcb-Designs
 
-Current [favorite (https://github.com/EmreDay1/Pcb-Designs/tree/main/Picksy)] out of all designs  
+The PCB designs by Emre Dayangaç.
+
+Current [favorite design](https://github.com/EmreDay1/Pcb-Designs/tree/main/Picksy) out of all the projects.
