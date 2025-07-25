@@ -1,1 +1,0 @@
-Simple ESP32C x W2812B PCB
